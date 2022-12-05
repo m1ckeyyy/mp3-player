@@ -1,2 +1,3 @@
 # mp3-player
-Created with CodeSandbox
+
+Simple player that plays my favourite song. 
